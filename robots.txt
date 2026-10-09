@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://le-punjab-seo-gratuit.floriandablon.workers.dev/sitemap.xml
